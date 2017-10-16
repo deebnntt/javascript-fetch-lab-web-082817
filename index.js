@@ -44,5 +44,3 @@ function getToken() {
   //back to '' before committing so all tests pass
   return '';
 }
-
-const token = '704114db17314e28baf3d509db3db9e00760db2d';
